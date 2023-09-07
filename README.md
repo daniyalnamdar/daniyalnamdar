@@ -7,7 +7,7 @@
 - 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/daniyal-namdar-000369189/" target="blank"><img align="center" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/9.12.0/linkedin.svg" style=" background-color: white;" alt="" height="30" width="40" /> Linkedin</a>
+<a style=" background-color: "white";" href="https://www.linkedin.com/in/daniyal-namdar-000369189/" target="blank"><img align="center" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/9.12.0/linkedin.svg" alt="" height="30" width="40" /> Linkedin</a>
 <a href="https://www.daniyalnamdar.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/webpage.svg" alt="" height="30" width="40" />Webpage</a>
 </p>
 
