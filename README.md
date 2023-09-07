@@ -5,7 +5,8 @@
 - 🤔 I’m looking for help with AWS
 - 💬 Ask me about Symfony API platform
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniyalnamdar&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniyalnamdar&layout=donut)](https://github.com/daniyalnamdar/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=daniyalnamdar&theme=onedark)](https://github.com/daniyalnamdar/github-profile-trophy)
 <!--
 **daniyalnamdar/daniyalnamdar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
